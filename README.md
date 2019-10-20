@@ -2,7 +2,6 @@
 A list of work-related books and resources to work through
 
 ### R
-
 - [ ] [R4DS](http://r4ds.had.co.nz/introduction.html)
 - [ ] [Tidy Mining with R](https://www.tidytextmining.com/)
 - [ ] [R packages](http://r-pkgs.had.co.nz/)
@@ -21,9 +20,6 @@ A list of work-related books and resources to work through
 - [ ] [Test that](http://r-pkgs.had.co.nz/tests.html)
 
 ### Git 
-
-### Articles - things to learn
-
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)
 - [ ] [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 
