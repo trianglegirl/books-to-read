@@ -14,6 +14,7 @@ A list of work-related books and resources to work through
 - [ ] [Plumbr](https://rviews.rstudio.com/2018/08/30/slack-and-plumber-part-one/)
 - [ ] [R4DS](http://r4ds.had.co.nz/introduction.html)
 - [ ] [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+- [ ] [R OpenSci packages](https://devguide.ropensci.org/)
 - [ ] [R packages](http://r-pkgs.had.co.nz/)
 - [ ] [rrtools](https://annakrystalli.me/rrtools-repro-research/intro.html)
 - [ ] [Styleguide](http://style.tidyverse.org/)
