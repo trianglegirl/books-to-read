@@ -1,3 +1,5 @@
+This project has been moved to [trianglegirl/professional-development](https://github.com/trianglegirl/professional-development)
+
 
 A list of work-related books and resources to work through
 
